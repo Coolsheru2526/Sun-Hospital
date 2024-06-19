@@ -58,9 +58,6 @@ To get started with Sun Hospital, follow these steps:
 
 We welcome contributions to Sun Hospital! If you'd like to contribute, please fork the repository and submit a pull request. For major changes, please open an issue first to discuss the proposed changes.
 
-## License
-
-Sun Hospital is licensed under the MIT License. See the [LICENSE](LICENSE) file for more details.
 
 ## Contact
 
